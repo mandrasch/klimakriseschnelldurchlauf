@@ -1,1 +1,1 @@
-Live: https://programmieraffe.github.io/klimakriseschnelldurchlauf/
+Live: https://oerhoernchen.github.io/klimakriseschnelldurchlauf/
