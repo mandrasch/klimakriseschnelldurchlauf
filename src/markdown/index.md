@@ -15,12 +15,14 @@ Aber hey! Wer Stories auf Instagram hinbekommt oder die Regeln vom Videobeweis i
 
 Eigentlich muss die Menschheit nur zwei Diagramme im Auge behalten: "CO2-Konzentration in der Atmosphäre" und "Weltweiter Land-Ozean-Temperaturindex". Auf diese beiden Diagramme werden wir gleich näher eingehen (Keine Sorge, gleich gibt es das erste versprochene Video!)
 
-<div about="mission_control_remix.png" class="copyright">
-<a href="./mission_control_remix.png" target="_blank">
-<img src="./mission_control_remix.png" alt="Zwei Diagramme" /></a>Selbst erstellte Remix-Grafik, verwendete Werke: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration _DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>
+<div about="zusammenstellung_co2_land_ozean.png" class="copyright">
+
+![Zwei Diagramme nebeneinander: Jährliche CO2-Konzentration, Land-Ozean-Temperaturindex. Beide Linien steigen im Trend](./zusammenstellung_co2_land_ozean.png)
+
+Selbst erstellte Remix-Grafik, verwendete Werke: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration _DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>
   sowie NASA <a href="https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies">Goddard Institute for Space Studies</a>
   , <a href="https://commons.wikimedia.org/wiki/File:Global_Temperature_Anomaly.svg">Global Temperature Anomaly</a>
-  , als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>. Titel hinzugefügt/beschnitten,  nachnutzbar als <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>.
+  , als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>. Titel hinzugefügt/beschnitten, monatliche Variationsgrafik entfernt, nachnutzbar als <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>.
 </div>
 
 ### Diagramm 1: CO2 in der Atmosphäre
@@ -91,8 +93,10 @@ Wären die CO2-Konzentration sowie die durchschnittliche Temperatur die Kurse vo
 
 Gibt es nun also einen direkten Zusammenhang zwischen CO2-Konzentration und durchschnittlicher Temperatur auf dem Planeten?
 
-<div about="zusammenhang.jpg" class="copyright">
-<img src="./zusammenhang.jpg" />
+<div about="zusammenhang.png" class="copyright">
+
+![Die beiden Grafiken nebeneinander gestellt, mit Fragezeichen dazwischen](./zusammenhang.png)
+
 Eigene Zusammenstellung, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-ShareAlike 4.0</a>, verwendete Bilder: Grafik: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration_DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" rel="license">CC BY-SA	4.0</a> und NASA <a href="https://en.wikipedia.org/wiki/Goddard_Institute_for_Space_Studies">Goddard Institute for Space Studies</a>, <a href="https://commons.wikimedia.org/wiki/File:Global_Temperature_Anomaly.svg">Global Temperature Anomaly</a>, als gemeinfrei gekennzeichnet, Details auf <a href="https://commons.wikimedia.org/wiki/Template:PD-US">Wikimedia Commons</a>
 </div>
 
@@ -128,8 +132,35 @@ Video:
 
 Die Menschheit muss an sich also "nur" schauen, dass das globale Thermometer nicht weiter steigt und daher muss der CO2-Ausstoß massiv reduziert werden. Ist keine Raketenwissenschaft, oder? Weiter unten gibt es jetzt noch Handlungsoptionen und mehr Videos und Infos.
 
-THE END.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+<div style="text-align:center;">~</div>
 </div> <!-- eo # mainArticleContentForScrollProgress -->
 
 ### Bonus: Act now?
@@ -143,7 +174,17 @@ Was also tun, um die Erhitzung des Planeten zu stoppen und die krassesten Szenar
 <p class="copyright">Video: <a rel="cc:attributionURL" property="dc:title" href="https://www.youtube.com/watch?v=q9cn1KBakpw">germanzero</a>, nicht unter freier Lizenz</p>
 </div>
 
-Greta Thunberg spricht in ihrem aktuellen <a href="https://twitter.com/GretaThunberg/status/1274618877247455233">Podcast „Greta Thunberg: Humanity has not yet failed“</a> sogar von 7 Jahren, in den wir gemeinsam als Menschheit eine Riesenleistung vollbringen müssen.
+Greta Thunberg spricht in ihrem aktuellen <a href="https://twitter.com/GretaThunberg/status/1274618877247455233">Podcast „Greta Thunberg: Humanity has not yet failed“</a> (Transkript bei [time.com](https://time.com/5863684/greta-thunberg-diary-climate-crisis/) sogar von 7 Jahren, in den wir gemeinsam als Menschheit eine Riesenleistung vollbringen müssen.
+
+> So where do we start? Well I’d suggest that we do precisely what all the world’s governments have committed to do in the Paris Agreement. Which is to follow the current best available science.
+> 
+> And that, among other places, we find on page 108, chapter 2 in the IPCC’s SR1.5 report. Right there it says that on Jan. 1 2018 we had 420 Gt CO2 left to emit globally to have a 66% chance of staying below the 1.5° target. We emit about 42 Gt CO2 every year, including land use such as forestry and agriculture. So today we’re soon already down to lower than 300 Gt of CO2 left to emit.
+>
+> That is the equivalent of less than 7.5 years of today’s ‘business as usual’ emissions until that budget completely runs out. This is the carbon budget which gives us the best odds to achieve the 1.5° target. Yes, you heard it right, less than 7.5 years.
+>
+> Do you remember the London Olympics? ‘Gangnam Style’ or the first Hunger Games movie? Those things all happened about seven or eight years ago. That’s the amount of time we are talking about.
+>
+> But even these figures are very watered down. They include almost no tipping points or feedback loops, nor the global aspect of equity in the Paris Agreement, nor already locked-in warming hidden by toxic air pollution. Most IPCC scenarios also assume that future generations will be able to suck hundreds of billions of tonnes of CO2 out of the atmosphere with technologies that don’t exist on the scale required, and that very likely never will in time.
 
 Ob einzelne Nationalstaaten oder die EU derzeit auf einem guten Weg sind bei der Einhaltung der Klimaziele kann man u.a. beim Climate Action Tracker (<a href="https://climateactiontracker.org/countries/eu/" target="_blank">EU</a>, <a	href="https://climateactiontracker.org/countries/switzerland/" target="_blank">Schweiz</a>, <a href="https://climateactiontracker.org/countries/germany/" target="_blank">Deutschland</a>) oder im <a href="https://www.germanwatch.org/sites/germanwatch.org/files/Klimaschutz-Index%202019_Die%20wichtigsten%20Ergebnisse.pdf">Klimaschutz-Index</a> einsehen, den Schweden 2019 anführte. Über die Klimaziel-Einhaltung von Österreich (nicht beim Climate Action Tracker einsehbar) berichtet	u.a. <a href="https://www.derstandard.at/story/2000115397279/oesterreich-weit-ab-vom-kurs-bei-klimazielen" target="_blank">Der Standard</a>. Spoiler: Vorbildlich ist da gerade keins der deutschsprachigen Länder und auch die EU ist kein glänzendes Vorbild.
 

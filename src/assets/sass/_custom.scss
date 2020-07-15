@@ -10,6 +10,7 @@
   }
   img{
     margin:20px 0px;
+    max-width:100%;
   }
   .button{
     margin-top:25px;
@@ -87,7 +88,7 @@ header.major{
     display:none;
   }
 
-  p.copyright, div.copyright {
+  p.copyright, div.copyright, div.copyright > p {
 			color: grey;
 			font-size: 11px;
 			margin-top: 0;
@@ -96,7 +97,7 @@ header.major{
 }
 
 #mainArticleContentForScrollProgress{
-  padding-bottom:400px;
+  padding-bottom:40px;
 }
 
 .ccLogo{

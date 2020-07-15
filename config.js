@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Klimakrise🔥 im Schnelldurchlauf⏩', // <title>
+  siteTitle: 'Klimakrise im Schnelldurchlauf ⏩', // <title>
   manifestName: 'directive',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,11 +9,12 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/klimakrise`, // This path is subpath of your hosting https://domain/portfolio
     buttonText: "Let's go",
-    descriptionTop: '🕒  Dauer: 1 bis 2 (alkoholfreie) Bier | 👨‍💻 Text: Matthias Andrasch (@m_andrasch)',
-    descriptionBottom: '(Mit Videos, nicht nur langweiliger Text - versprochen!)',
-    subHeading: 'Lesedauer: 1 bis 2 Bier oder Mate, <br> mit Videos, nicht nur langweiliger Text, versprochen!',
+    descriptionTopLeft: '🕒 Dauer: 1 bis 2 (alkoholfreie) Bier',
+    descriptionAuthor: 'Matthias Andrasch',
+    descriptionAuthorTooltip: 'Ich bin Web-Entwickler, studierter Medienpädagoge und wohne derzeit in Wien.',
+
   // social
-    socialLinks: [
+  /*  socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
@@ -29,5 +30,5 @@ module.exports = {
       name: 'Email',
       url: 'mailto:kontakt@steffen-roertgen.de',
     },
-  ],
+  ],*/
 };

@@ -8,6 +8,7 @@ import Footer from '../components/Footer';
 
 import ScrollProgressRead from 'react-scroll-progress-read';
 
+
 /* 2DO: add data to header
  <Header data={data} /> did not work */
 

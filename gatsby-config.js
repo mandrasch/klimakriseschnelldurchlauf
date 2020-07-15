@@ -39,7 +39,7 @@ module.exports = {
             options: {
               maxWidth: 800,
               linkImagesToOriginal: true,
-              disableBgImage: true
+              /*disableBgImage: false*/
             },
           },
           // https://www.gatsbyjs.org/packages/gatsby-remark-image-attributes/#use-with-gatsby-remark-images
