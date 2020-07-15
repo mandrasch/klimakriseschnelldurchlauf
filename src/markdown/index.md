@@ -230,7 +230,7 @@ Das Werk besteht aus mehreren Bestandteilen, die auch einzeln unter einer andere
 
 Danke an die „Das Gute ruft“ Community sowie an Steffen Rörtgen für die Umwandlung des Projekts mit GatsbyJS.
 
-Feedback gerne per Twitter-DM an <a href="https://twitter.com/OERhoernchen">@OERhoernchen</a> (oder als <a href="https://github.com/oerhoernchen/klimakriseschnelldurchlauf/issues">Issue bei Github</a> eintragen).
+Feedback gerne per Twitter-DM an <a href="https://twitter.com/m_andrasch">@m_andrasch</a> (oder als <a href="https://github.com/programmieraffe/klimakriseschnelldurchlauf/issues">Issue bei Github</a> eintragen).
 
 Der Webserver ist so konfiguriert, dass keine Analysedaten erhoben werden, ebenso läuft derzeit keine Analysesoftware wie Google Analytics. Die Webseite wird bei All-Inkl gehostet (Ökostrom, Serverstandort: Deutschland.) Alle weiteren Infos:
 <a href="https://matthias-andrasch.eu/blog/impressum-datenschutz/">Datenschutzerklärung sowie Impressum</a>
