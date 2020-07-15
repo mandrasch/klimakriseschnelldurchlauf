@@ -23,26 +23,32 @@ module.exports = {
     'gatsby-plugin-offline',
     'gatsby-plugin-sharp',
     {
-        resolve: `gatsby-source-filesystem`,
-        options: {
-            path: `${__dirname}/src/markdown`,
-            name: "markdown",
-        },
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/markdown`,
+        name: "markdown",
+      },
     },
     {
-        resolve: `gatsby-transformer-remark`,
-        options: {
-            plugins: [
-                `gatsby-remark-responsive-iframe`,
-                {
-                    resolve: `gatsby-remark-images`,
-                    options: {
-                        maxWidth: 800,
-                        linkImagesToOriginal: true,
-                    },
-                },
-            ], // just in case those previously mentioned remark plugins sound cool :)
-        },
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-responsive-iframe`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+              linkImagesToOriginal: true,
+              disableBgImage: true
+            },
+          },
+          // https://www.gatsbyjs.org/packages/gatsby-remark-image-attributes/#use-with-gatsby-remark-images
+          // only works with disableBgImage: true (above at gatsby-remark-images)?
+          {
+            resolve: "gatsby-remark-image-attributes"
+          }
+        ], // just in case those previously mentioned remark plugins sound cool :)
+      },
     }
   ],
 };
