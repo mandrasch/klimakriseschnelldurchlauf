@@ -7,29 +7,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 import ScrollProgressRead from 'react-scroll-progress-read';
-
-
-/* 2DO: add data to header
- <Header data={data} /> did not work */
-
-         /* 2DO: use 2 click solution like borlabs: https://de.borlabs.io/borlabs-cookie/iframe-demo/ */
-
-         /*<CookieConsent
-           location="bottom"
-           buttonText="Okay, einverstanden."
-           declineButtonText="Webseite verlassen"
-           cookieName="schnelldurchlaufCookieNotice"
-           style={{ background: "#2B373B", padding: "10px 0px" }}
-           buttonStyle={{ color: "#4e503b", fontSize: "12px" }}
-           enableDeclineButton
-           onDecline={() => {
-             window.location = 'https://www.ecosia.org/';
-           }}
-           debug={true}
-           flipButtons={true}
-         >
-           Diese Webseite bindet Videos von YouTube (<a href="https://policies.google.com/privacy" target="_blank">Datenschutzerklärung</a>) und Wikimedia Commons (<a href="https://meta.wikimedia.org/wiki/Privacy_policy/de" target="_blank">Datenschutzerklärung</a>) ein. Mit der Benutzung der Webseite erklärst du dich hiermit einverstanden.
-         </CookieConsent>*/
+import { Link } from "gatsby";
 
 const IndexPage = ({data}) => {
     return (
@@ -39,28 +17,29 @@ const IndexPage = ({data}) => {
         <ScrollProgressRead
           backgroundColor="white"
           height="10px"
-          target="mainArticleContentForScrollProgress"
+          target="letsGo"
         />
         </div>
-
-
-
 
           <Header />
 
           <div id="main">
 
-
-
             <div className="box container" id="letsGo">
             <div
               dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
             />
-
+            </div>
+            <div className="box container">
+            <ul>
+              <li><Link to="credits/">Credits</Link></li>
+              <li><Link to="bonus/">Bonus</Link></li>
+            </ul>
             </div>
 
-          </div>
 
+          </div>
+          <Footer />
         </Layout>
     )
 }
@@ -71,6 +50,7 @@ export default IndexPage
   credits
 }*/
 
+/* 2DO: use type and gatsby-node.js to use it better */
 export const pageQuery = graphql`
 query IndexPageQuery {
     markdownRemark(fileAbsolutePath: {regex: "/index.md/"}) {
