@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/klimakrise`, // This path is subpath of your hosting https://domain/portfolio
     buttonText: "Let's go",
-    descriptionTopLeft: '🕒 Dauer: 1 bis 2 (alkoholfreie) Bier',
+    descriptionTopLeft: '🕒 Dauer: 1 bis 2 (alkoholfreie) Weizen',
     descriptionAuthor: 'Matthias Andrasch',
     descriptionAuthorTooltip: 'Ich bin Web-Entwickler, studierter Medienpädagoge und wohne derzeit in Wien.',
 
