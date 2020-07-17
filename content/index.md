@@ -1,7 +1,5 @@
 ---
-buttonText: "Let's go"
-descriptionTop: '🕒  Lesedauer: 1 bis 2 Mate | 👨‍💻 Text: Matthias Andrasch'
-descriptionBottom: '(Mit Videos, nicht nur langweiliger Text - versprochen!)'
+type: "index"
 ---
 
 

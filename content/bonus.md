@@ -1,4 +1,7 @@
-
+---
+type: "page"
+slug: "bonus"
+---
 
 
 WIRD GERADE ÜBERARBEITET
