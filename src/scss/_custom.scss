@@ -1,0 +1,110 @@
+/* https://github.com/jeremenichelli/scrollProgress#scrollprogress- */
+.progress-bar {
+  background-color: #F65C5D;
+  height: 5px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 5000;
+}
+
+.post-heading,
+header,
+header.masthead .overlay {
+  background-color: white !important;
+  color: #6e6e6e !important;
+  text-align: center;
+  font-size: 0.8em;
+}
+header{
+
+  .description{
+    margin-bottom:10px;
+  }
+
+  img{
+    max-width:100%;
+  }
+}
+
+.navbar,
+.navbar-expand-lg,
+.navbar-light,
+footer {
+  background-color: #454545 !important;
+}
+
+.navbar-brand {
+  color: #FBE28B !important;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+}
+
+body {
+  font-family: 'Source Sans Pro';
+}
+
+#content {
+  &:before {
+    display: none;
+  }
+
+  p {
+    text-align: justify;
+    line-height: 1.6em;
+    font-size: 0.9em;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Signika';
+    font-weight: 500;
+    padding-top: 30px;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  iframe {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  div.copyright,
+  div.copyright > p,
+  p.copyright {
+    color: grey;
+    font-size: 11px;
+    margin-top: 0;
+    margin-bottom: 25px;
+  }
+  /* 2ClickIframePrivacy */
+  .privacy-msg {
+    border: 1px solid #F65C5D;
+    max-width: 100%;
+    padding: 20px;
+    width:100%;
+
+    p {
+      font-size: 12px;
+    }
+  }
+}
+
+.btn-primary {
+  background-color: #F65C5D;
+  border-color: #F65C5D;
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    background-color: darken($primary, 7.5) !important;
+    border-color: darken($primary, 7.5) !important;
+  }
+}

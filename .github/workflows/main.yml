@@ -14,12 +14,12 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: remove public dir, if exists
-        run: rm -rf public
+      - name: remove build dir, if exists
+        run: rm -rf build
 
       - run: npm install
 
-      - run: npm run build
+      - run: gulp
 
       - name: List output files
         run: ls
