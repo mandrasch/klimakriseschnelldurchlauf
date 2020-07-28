@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="container medium">
 
         <ul className="copyright">
-          <li>CC BY - SA 4.0, Wien 2020 2DO: a rel=license</li>
+          <li><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de"  rel="license">CC BY - SA 4.0</a> | <a href="https://github.com/programmieraffe/klimakriseschnelldurchlauf">Github</a></li>
           <li>
             <Link to="credits/">Credits / Urheberrecht</Link>
           </li>
