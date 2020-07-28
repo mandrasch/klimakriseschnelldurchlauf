@@ -8,10 +8,14 @@
   z-index: 5000;
 }
 
+header.masthead{
+  background-color:white;
+}
+
 .post-heading,
 header,
-header.masthead .overlay {
-  background-color: white !important;
+header.masthead, .overlay {
+  background-color: none !important;
   color: #6e6e6e !important;
   text-align: center;
   font-size: 0.8em;
@@ -108,3 +112,37 @@ body {
     border-color: darken($primary, 7.5) !important;
   }
 }
+
+/* https://tholman.com/github-corners/ */
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+
+  0%,
+  100% {
+    transform: rotate(0)
+  }
+
+  20%,
+  60% {
+    transform: rotate(-25deg)
+  }
+
+  40%,
+  80% {
+    transform: rotate(10deg)
+  }
+}
+
+@media (max-width:500px) {
+  .github-corner:hover .octo-arm {
+    animation: none
+  }
+
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+  }
+}
+/* eo github corner */
