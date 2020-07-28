@@ -1,4 +1,4 @@
-name: Build /public and delpoy to gh-pages with docker container
+name: Build /build directory and deploy to gh-pages with docker container
 
 on:
   push:
@@ -30,4 +30,4 @@ jobs:
           ftp-server: ${{ secrets.FTP_SERVER }}
           ftp-username: ${{ secrets.FTP_USERNAME }}
           ftp-password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: public # This folder is NOT going to upload by default unless you add it to .git-ftp-include
+          local-dir: build # This folder is NOT going to upload by default unless you add it to .git-ftp-include
