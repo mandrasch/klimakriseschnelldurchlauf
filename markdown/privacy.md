@@ -1,5 +1,7 @@
 # Datenschutz: No tracking!
 
+**Die Datenschutzerklärung**
+
 Diese Seite erhebt keine personenbezogenen Daten. Die Protokollierung der Zugriffe auf dem Webspace von All-Inkl ist deaktiviert.
 
 Schriftarten sind mit Hilfe von [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts/signika?subsets=latin) lokal eingebunden.
