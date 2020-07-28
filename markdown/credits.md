@@ -3,9 +3,7 @@
 ⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein.
 
 <div class="ccLogo">
-
-![CC Logo](./img/cc_by_sharealike.png)
-
+<img src="/img/cc_by_sharealike" style="width:100px;" />
 </div>
 
 Dieses Werk kann weitergenutzt und verändert werden. Urheber: <i>Matthias Andrasch</i>, das Gesamtwerk ist lizenziert unter <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-ShareAlike 4.0)</a> - ausgenommen sind anders gekennzeichnete Inhalte. Das Werk besteht aus mehreren Bestandteilen, die auch einzeln unter einer anderen Freigabe/Lizenz nachgenutzt werden können. Die Lizenzhinweise für die CC BY-*-Werke dürfen bei einer Nachnutzung des Gesamtwerks nicht entfernt werden:
