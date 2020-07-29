@@ -125,13 +125,13 @@ Video:
 <a rel="cc:attributionURL" property="dc:title" href="https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-szenarien-der-erderwaermung-was-waere-wenn--100.html">Quarks 19.03.2019/WDR/Daniel Haase</a>, nicht unter freier Lizenz</p>
 </div>
 
-Die Menschheit muss an sich also "nur" schauen, dass das globale Thermometer nicht weiter steigt und daher muss der CO2-Ausstoß massiv reduziert werden. Ist keine Raketenwissenschaft, oder?
+Die Menschheit muss an sich also "nur" schauen, dass das globale Thermometer nicht weiter steigt und daher muss der Treibhausgas/CO2-Ausstoß massiv reduziert werden. Ist keine Raketenwissenschaft, oder?
 
 <div style="display:none;">Weiter unten gibt es jetzt noch Handlungsoptionen und mehr Videos und Infos.</div>
 
 <div style="text-align:center;">~</div>
 
-Was du sofort tun kannst? Bleibe informiert! // **Instagram**: [Greta Thunberg](https://www.instagram.com/gretathunberg/?hl=de), [Luisa Neubauer](https://www.instagram.com/luisaneubauer/?hl=de), [Leonie Bremer](https://www.instagram.com/leoniebremr/?hl=de), [Fridays For Future DE](https://www.instagram.com/fridaysforfuture.de/?hl=de), [GermanZero](https://www.instagram.com/_germanzero/?hl=de), [Fridays For Future AT](https://www.instagram.com/fridaysforfuture.at/?hl=de), [Fridays For Future CH](https://www.instagram.com/fridaysforfuture.ch/?hl=de), [Der Graslutscher](https://www.instagram.com/dergraslutscher/), [fairstainable](https://www.instagram.com/fairstainable/) // **Twitter**: [Jumpsteady](https://twitter.com/Jumpsteady), [Maja Göpel](https://twitter.com/beyond_ideology?lang=de), [She Drives Mobility](https://twitter.com/kkklawitter), [Özden Terli](https://twitter.com/TerliWetter), [Rico Grimm](https://twitter.com/gri_mm?lang=de) // **YouTube**: [MaiLab](https://www.youtube.com/watch?v=4K2Pm82lBi8) // & viele, viele mehr.
+Was du sofort tun kannst? Bleibe informiert! // **Instagram**: [Greta Thunberg](https://www.instagram.com/gretathunberg/?hl=de), [Luisa Neubauer](https://www.instagram.com/luisaneubauer/?hl=de), [Leonie Bremer](https://www.instagram.com/leoniebremr/?hl=de), [FridaysForFutureDE](https://www.instagram.com/fridaysforfuture.de/?hl=de), [GermanZero](https://www.instagram.com/_germanzero/?hl=de), [FridaysForFuture AT](https://www.instagram.com/fridaysforfuture.at/?hl=de), [FridaysForFutureCH](https://www.instagram.com/fridaysforfuture.ch/?hl=de), [Der Graslutscher](https://www.instagram.com/dergraslutscher/), [fairstainable](https://www.instagram.com/fairstainable/) // **Twitter**: [Jumpsteady](https://twitter.com/Jumpsteady), [Maja Göpel](https://twitter.com/beyond_ideology?lang=de), [She Drives Mobility](https://twitter.com/kkklawitter), [Özden Terli](https://twitter.com/TerliWetter), [Rico Grimm](https://twitter.com/gri_mm?lang=de) // **YouTube**: [MaiLab](https://www.youtube.com/watch?v=4K2Pm82lBi8) // & viele, viele mehr.
 
 <div style="text-align:center;">~</div>
 
