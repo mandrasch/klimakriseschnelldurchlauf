@@ -22,7 +22,7 @@ Selbst erstellte Remix-Grafik, verwendete Werke: <a href="https://commons.wikime
 
 ### Diagramm 1: CO2 in der Atmosphäre
 
-Das erste Messdiagramm (Mitte) zeigt den aktuellen Anteil von Kohlenstoffdioxid, CO2, in der Atmosphäre unseres Planeten Erde an. Kohlenstoffdioxid, CO2, ist an sich ein natürliches Gas, welches unsichtbar und geruchlos ist und schon immer auf diesem Planeten zu finden war. Wir atmen es aus, Pflanzen können es aufnehmen und es entsteht auch bei der Verbrennung von Kohle oder Vulkanausbrüchen. Der Anteil von CO2 wird in parts per million (ppm) gemessen, die kleine Grafik oben links (monatliche Variation) musst du erstmal überhaupt nicht beachten:
+Das erste Messdiagramm (links) zeigt den aktuellen Anteil von Kohlenstoffdioxid, CO2, in der Atmosphäre unseres Planeten Erde an. Kohlenstoffdioxid, CO2, ist an sich ein natürliches Gas, welches unsichtbar und geruchlos ist und schon immer auf diesem Planeten zu finden war. Wir atmen es aus, Pflanzen können es aufnehmen und es entsteht auch bei der Verbrennung von Kohle oder Vulkanausbrüchen. Der Anteil von CO2 wird in parts per million (ppm) gemessen, die kleine Grafik oben links (monatliche Variation) musst du erstmal überhaupt nicht beachten:
 
 <div about="1024px-Mauna_Loa_CO2_monthly_mean_concentration_DE.svg.png" class="copyright">
 <a href="./img/1024px-Mauna_Loa_CO2_monthly_mean_concentration_DE.svg.png" target="_blank">
