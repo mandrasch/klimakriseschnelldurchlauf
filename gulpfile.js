@@ -82,7 +82,7 @@ function modules() {
   var staticImages = gulp.src(['./src/static/**/*']).pipe(gulp.dest('./build/static'));
   var fonts = gulp.src(['./src/fonts/**/*']).pipe(gulp.dest('./build/fonts'));
 
-  var htaccess = gulp.src(['.htaccess']).pipe(gulp.dest('./build'));
+  var htaccess = gulp.src(['./.htaccess']).pipe(gulp.dest('./build'));
 
   return merge(bootstrap, fontAwesomeCSS, fontAwesomeWebfonts, jquery, scrollProgress, markdownImages, staticImages, fonts, htaccess);
 }
