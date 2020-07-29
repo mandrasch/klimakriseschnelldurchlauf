@@ -1,5 +1,5 @@
 # use low caching time if site changes frequently
 <ifmodule mod_expires.c>
-ExpiresActive On // shows the activation/deactivation of cache-control & expires headers
+ExpiresActive On
 ExpiresDefault "access plus 1 day"
 </ifmodule>
