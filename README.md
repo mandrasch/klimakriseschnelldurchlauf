@@ -8,7 +8,7 @@ State: experimental
 
 ## Technical background
 
-Minimal template for OER one pagers which also work with Github Actions, uses some minification and privacy-friendly embeds, but keeps the main goal of simplicity in mind. Based on [startbootstrap/clean-blog](https://startbootstrap.com/themes/clean-blog/) (MIT license).
+Minimal template for OER one pagers based on markdown content. The template uses some minification, privacy-friendly embeds and other goodies such as a visual scroll progress bar, but keeps the main goal of simplicity in mind. Based on [startbootstrap/clean-blog](https://startbootstrap.com/themes/clean-blog/) (MIT license).
 
 **VIDEO: Demonstration of development process: https://www.youtube.com/watch?v=Ju8Sxcw6hkE**
 
