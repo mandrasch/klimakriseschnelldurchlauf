@@ -10,7 +10,7 @@ State: experimental
 
 Minimal template for OER one pagers which also work with Github Actions, uses some minification and privacy-friendly embeds, but keeps the main goal of simplicity in mind. Based on [startbootstrap/clean-blog](https://startbootstrap.com/themes/clean-blog/) (MIT license).
 
-Demonstration of development process: https://www.youtube.com/watch?v=Ju8Sxcw6hkE
+**VIDEO: Demonstration of development process: https://www.youtube.com/watch?v=Ju8Sxcw6hkE**
 
 **Features:**
 - local dev environment with gulp (auto-refresh in browser, scss, js minification, npm packages)
