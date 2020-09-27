@@ -148,7 +148,7 @@ Es bleibt für die Schadensbegrenzung und das Stoppen der Erwärmung des Planete
 Foto: <a href="https://climateclock.world/">climateclock.world-Projekt</a>, nicht unter freier Lizenz
 </div>
 
-Klingt alles düster? Ist es. Aber die Menschheit hat wahnsinnig krasse Dinge geschafft, Atomkriege verhindert, das Ozonloch geschlossen, die Sklaverei verboten, Menschenrechte und Gleichberechtigung etabliert, ist in den Weltall geflogen, hat technologisch und sozial wahnsinnige Fortschritte gemacht, stets dazu gelernt und sich immer wieder neu hinterfragt und neu erfunden mit jeder Generation. Und so verkündet auch Luisa Neubauer von Fridays For Future, auch weiterhin nicht locker zu lassen:
+Klingt alles düster? Ist es. Aber die Menschheit hat wahnsinnig krasse Dinge geschafft, Atomkriege verhindert, das Ozonloch geschlossen, die Sklaverei verboten, Menschenrechte und Gleichberechtigung etabliert, ist in den Weltall geflogen, hat technologisch und sozial wahnsinnige Fortschritte gemacht, stets dazu gelernt und sich immer wieder neu hinterfragt und neu erfunden mit jeder Generation. Und so verkündete Luisa Neubauer von Fridays For Future am 25.9.2020, auch weiterhin nicht locker zu lassen:
 
 <div about="https://www.youtube-nocookie.com/embed/TatxwaWQaFs">
 
@@ -174,7 +174,9 @@ Einen längeren Vortrag zum Thema Klimakrise findest du u.a. hier:
 
 Tipps für die mentale Gesundheit in Zeiten der Klimakrise: <a href="https://www.instagram.com/klimaangst/?hl=de" target="_blank">KlimaAngst @ Instagram</a>
 
-To be continued, danke für die Aufmerksamkeit!
+<div style="text-align:center;">~</div>
+
+<div style="text-align:center;">„Hoffnung ist nicht die Überzeugung, dass etwas gut ausgeht,<br> sondern die Gewissheit, dass etwas Sinn hat, egal wie es ausgeht“ <br><small> - Vaclav Havel, Quelle: <a href="https://www.instagram.com/p/CFgwKypnmtt/" target="_blank">Instagram-Post von @klimaangst</a></small></div>
 
 <div style="text-align:center;">~</div>
 
