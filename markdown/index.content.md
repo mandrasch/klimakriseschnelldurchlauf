@@ -11,7 +11,7 @@ Eigentlich muss die Menschheit nur zwei Diagramme im Auge behalten: "CO2-Konzent
 <div about="img/zusammenstellung_co2_land_ozean.png" class="copyright">
 
 <a href="img/zusammenstellung_co2_land_ozean.png">
-<img src="img/zusammenstellung_co2_land_ozean.png" class="img-fluid" alt="Responsive image" alt="Zwei Diagramme nebeneinander: Jährliche CO2-Konzentration, Land-Ozean-Temperaturindex. Beide Linien steigen im Trend" />
+<img src="img/zusammenstellung_co2_land_ozean.png" class="img-fluid" alt="Zwei Diagramme nebeneinander: Jährliche CO2-Konzentration, Land-Ozean-Temperaturindex. Beide Linien steigen im Trend" />
 </a>
 
 Selbst erstellte Remix-Grafik, verwendete Werke: <a href="https://commons.wikimedia.org/wiki/User:Delorme">Delorme</a>, <a href="https://commons.wikimedia.org/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration _DE.svg">Mauna Loa CO2 monthly mean concentration DE</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>
@@ -108,7 +108,7 @@ Also Butter bei die Fische: Gibt es einen Zusammenhang zwischen CO2 in der Atmos
 
 Okay, Treibhauseffekt, klingt langweilig, aber gecheckt - grobe Daumenregel: Mehr CO2 in Atmosphäre = stärkerer Treibhauseffekt = steigende Temperaturen = Erde, Mensch, Tier und Ökosysteme schwitzen und sind unter Stress 🥵🔥 Einige Tierarten versuchen daher bereits in kältere Regionen zu flüchten (<a href="https://futurezone.at/science/massenflucht-von-tieren-an-die-pole-hat-begonnen/400928198" target="_blank">Massenflucht von Tieren an die Pole hat begonnen</a>). Mehr zum wissenschaftlichen Nachweis des Zusammenhangs findet sich übrigens u.a. auf klimafakten.de (<a href="https://www.klimafakten.de/behauptungen/behauptung-der-co2-anstieg-ist-nicht-ursache-sondern-folge-des-klimawandels" target="_blank">"Ist vielleicht etwas anderes als der Mensch die Ursache?"</a>).
 
-#### Fazit?
+#### Fazit
 
 Wir halten also zum Abschluss fest (ganz kurz noch durchhalten und dranbleiben!): Der Planet Erde hat sich durchschnittlich schon um 1 Grad erwärmt, Auslöser sind zum größten Teil wir Menschen.
 
@@ -127,12 +127,55 @@ Video:
 
 Die Menschheit muss an sich also "nur" schauen, dass das globale Thermometer nicht weiter steigt und daher muss der Treibhausgas/CO2-Ausstoß massiv reduziert werden. Ist keine Raketenwissenschaft, oder?
 
-<div style="display:none;">Weiter unten gibt es jetzt noch Handlungsoptionen und mehr Videos und Infos.</div>
+Glückwunsch, dass du dich hier durch gekämpft hast!
 
 <div style="text-align:center;">~</div>
 
-Was du sofort tun kannst? Bleibe informiert! // **Instagram**: [Greta Thunberg](https://www.instagram.com/gretathunberg/?hl=de), [Luisa Neubauer](https://www.instagram.com/luisaneubauer/?hl=de), [Leonie Bremer](https://www.instagram.com/leoniebremr/?hl=de), [FridaysForFutureDE](https://www.instagram.com/fridaysforfuture.de/?hl=de), [GermanZero](https://www.instagram.com/_germanzero/?hl=de), [FridaysForFuture AT](https://www.instagram.com/fridaysforfuture.at/?hl=de), [FridaysForFutureCH](https://www.instagram.com/fridaysforfuture.ch/?hl=de), [Der Graslutscher](https://www.instagram.com/dergraslutscher/), [fairstainable](https://www.instagram.com/fairstainable/) // **Twitter**: [Jumpsteady](https://twitter.com/Jumpsteady), [Maja Göpel](https://twitter.com/beyond_ideology?lang=de), [She Drives Mobility](https://twitter.com/kkklawitter), [Özden Terli](https://twitter.com/TerliWetter), [Rico Grimm](https://twitter.com/gri_mm?lang=de) // **YouTube**: [MaiLab](https://www.youtube.com/watch?v=4K2Pm82lBi8) // & viele, viele mehr.
+#### Und nun?
+
+Ich würde hier gerne mit der guten Nachricht abschließen, dass noch voll viel Zeit bleibt. Aber Greta Thunberg sprach nicht ohne Grund von „I want you to panic“. Laut Klimaforscher:innen wie Hans Joachim Schellnhuber haben wir, die Menschheit, in Sachen Klimaschutz viel zu lange viel zu wenig getan. Eigentlich vergleichbar mit dem Lernen vor Klausuren oder dem Abgabetermin einer Hausarbeit - wir chillen viel zu lange und dann wird es extrem stressig. Schellnhuber sagte kürzlich [Quelle: <a href="https://twitter.com/Jumpsteady/status/1309979685565194240" target="_blank">DIE ZEIT Nr. 40/2020 24.09.2020, via @Jumpsteady</a>]:
+
+<blockquote>„Mein Problem ist nicht die Übertreibung. Beim Klima ist eigentlich alles, was schiefgehen konnte, schiefgegangen. Schauen Sie sich einfach die Emissionskurve an, das ist ein Faktum: Die geht nach oben und oben. Mein Problem ist inzwischen eher die Untertreibung. Eigentlich endet jedes Interview mit der Frage: Haben Sie noch Hoffnung? Nee, eigentlich nicht mehr. Aber wenn Sie mich wirklich lange genug quälen, sage ich Ihnen: Die Wahrscheinlichkeit, das Pariser Abkommen noch umzusetzen, liegt vielleicht bei zehn Prozent.“</blockquote>
+
+Es bleibt für die Schadensbegrenzung und das Stoppen der Erwärmung des Planeten nur noch ein kleiner Spielraum übrig. Sofortiges Handeln ist unbedingt nötig. Als öffentliche Erinnerung wurde in New York bspw. eine "Klima-Uhr" installiert, die anzeigt wie viel Jahre noch bleiben, bis die Menschheit keine Emissionen mehr in die Atmosphäre entlassen darf. (Weil das errechnete CO2-Budget für die maximale Erwärmung vom Pariser Klimaziel 1,5 Grad dann aufgebraucht ist). Diese Uhr steht derzeit bei knapp über 7 Jahren, also 2027 (Stand 27.09.2020):
+
+<div about="img/climate_clock_newyork_climateclock.world.jpg" class="copyright">
+
+<a href="img/climate_clock_newyork_climateclock.world.jpg">
+<img src="img/climate_clock_newyork_climateclock.world.jpg" class="img-fluid" />
+</a>
+
+Foto: <a href="https://climateclock.world/">climateclock.world-Projekt</a>, nicht unter freier Lizenz
+</div>
+
+Klingt alles düster? Ist es. Aber die Menschheit hat wahnsinnig krasse Dinge geschafft, Atomkriege verhindert, das Ozonloch geschlossen, die Sklaverei verboten, Menschenrechte und Gleichberechtigung etabliert, ist in den Weltall geflogen, hat technologisch und sozial wahnsinnige Fortschritte gemacht, stets dazu gelernt und sich immer wieder neu hinterfragt und neu erfunden mit jeder Generation. Und so verkündet auch Luisa Neubauer von Fridays For Future, auch weiterhin nicht locker zu lassen:
+
+<div about="https://www.youtube-nocookie.com/embed/TatxwaWQaFs">
+
+<iframe width="560" height="415" src="" data-2click-type="video" data-src="https://www.youtube-nocookie.com/embed/TatxwaWQaFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p class="copyright">
+Video:
+<a href="https://www.youtube.com/watch?v=TatxwaWQaFs&feature=emb_title">Rede von Luisa Neubauer bei Fridays-For-Future Demo vor Brandenburger Tor in Berlin 25.09.2020, Phoenix</a>, nicht unter freier Lizenz</p>
+</div>
+
+#### Handlungsmöglichkeiten
+
+Was du sofort tun kannst? Bleibe informiert, bilde dich selbst weiter, unterstütze Initiativen, mach Druck auf Politik und Entscheidungsträger:innen, triff möglichst bewusste Konsum- und Alltagsentscheidungen, check deine finanziellen Handlungsmöglichkeiten (nachhaltiges Bankkonto, Stromanbieter, etc.); misch dich ein, wenn es deine persönlichen Ressourcen zulassen.
+
+Informiert bleiben kannst du zum Beispiel über folgende Kanäle:
+
+**Instagram**: [Greta Thunberg](https://www.instagram.com/gretathunberg/?hl=de), [Luisa Neubauer](https://www.instagram.com/luisaneubauer/?hl=de), [Leonie  Bremer](https://www.instagram.com/leoniebremr/?hl=de), [FridaysForFutureDE](https://www.instagram.com/fridaysforfuture.de/?hl=de), [GermanZero](https://www.instagram.com/_germanzero/?hl=de), [FridaysForFutureAT](https://www.instagram.com/fridaysforfuture.at/?hl=de), [FridaysForFutureCH](https://www.instagram.com/fridaysforfuture.ch/?hl=de), [NachhaltigKritisch](https://www.instagram.com/nachhaltig.kritisch/?hl=de), [Der Graslutscher](https://www.instagram.com/dergraslutscher/) **Twitter**: [KlimaVorAcht](https://twitter.com/klimavoracht), [Jumpsteady](https://twitter.com/Jumpsteady), [Maja Göpel](https://twitter.com/beyond_ideology?lang=de), [She Drives Mobility](https://twitter.com/kkklawitter), [Özden Terli](https://twitter.com/TerliWetter), [Rico Grimm](https://twitter.com/gri_mm?lang=de) // **YouTube**: [Scientists For Future](https://www.youtube.com/channel/UCTYJGqonRI35naHC2L6lRGw), [MaiLab](https://www.youtube.com/watch?v=4K2Pm82lBi8) // & viele, viele mehr.
+
+Einen längeren Vortrag zum Thema Klimakrise findest du u.a. hier:
+
+▶️ <a href="https://www.youtube.com/watch?v=esF6bl2H5x0&feature=youtu.be" target="_blank">Will Steffen - Die große Wende voraus</a><br>
+<small>Warum ist 2020 ein entscheidendes Jahr in der #Klimakrise? Die #GroßeWendeVoraus gibt Antworten darauf. Ein beeindruckender Filmvortrag von Professor Will Steffen über die Tragweite und Dringlichkeit des #Klimawandels.</small>
+
+Tipps für die mentale Gesundheit in Zeiten der Klimakrise: <a href="https://www.instagram.com/klimaangst/?hl=de" target="_blank">KlimaAngst @ Instagram</a>
+
+To be continued, danke für die Aufmerksamkeit!
 
 <div style="text-align:center;">~</div>
 
-⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Feedback ist gerne gesehen! 👉 [Insta-DM](https://www.instagram.com/matze_schnelldurchlauf/).
+⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Feedback ist gerne gesehen! 👉 [Insta-DM](https://www.instagram.com/matze_schnelldurchlauf/), [Twitter-DM](https://www.twitter.com/m_andrasch), E-Mail: anfragen@matthias-andrasch.de. 

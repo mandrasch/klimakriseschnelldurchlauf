@@ -29,6 +29,11 @@
   const progressObserver = new ScrollProgress((x, y) => {
     progressElement.style.width = y * 100 + '%';
   });
+  
+  /* enable bootstrap tooltips */
+  $(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
 
 
