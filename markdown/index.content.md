@@ -133,7 +133,7 @@ Glückwunsch, dass du dich hier durch gekämpft hast!
 
 #### Und nun?
 
-##### Die nächsten 7 Jahre sind entscheidend
+##### 10% Restchance auf das Limitieren der Erwärmung auf 1,5 Grad
 
 Ich würde hier gerne mit der guten Nachricht abschließen, dass noch voll viel Zeit bleibt. Aber Greta Thunberg sprach nicht ohne Grund von „I want you to panic“. Laut Klimaforscher:innen wie Hans Joachim Schellnhuber haben wir, die Menschheit, in Sachen Klimaschutz viel zu lange viel zu wenig getan. Eigentlich vergleichbar mit dem Lernen vor Klausuren oder dem Abgabetermin einer Hausarbeit - wir chillen viel zu lange und dann wird es extrem stressig. Schellnhuber sagte kürzlich mit Blick auf das 1,5-Grad-Limitierungsziel folgendes [Quelle: <a href="https://twitter.com/Jumpsteady/status/1309979685565194240" target="_blank">DIE ZEIT Nr. 40/2020 24.09.2020, via @Jumpsteady</a>]:
 
@@ -150,6 +150,8 @@ Es bleibt für die Schadensbegrenzung und das Stoppen der Erwärmung des Planete
 Grafik aus Artikel <a href="https://www.moment.at/story/wir-sind-unbeirrbar-auf-dem-weg-die-klimakatastrophe">Wir sind unbeirrbar auf dem Weg in die Klimakatastrophe - moment.at</a>, nicht unter freier Lizenz
 </div>
 
+##### Die nächsten 7 Jahre sind entscheidend 
+
 Als öffentliche Erinnerung für die nötige Kurskorrektur wurde in New York eine "Klima-Uhr" installiert, die anzeigt wie viel Jahre noch bleiben, bis die Menschheit keine Emissionen mehr in die Atmosphäre entlassen darf. (Weil das errechnete CO2-Budget für die maximale Erwärmung vom Pariser Klimaziel 1,5 Grad dann aufgebraucht ist). Diese Uhr steht derzeit bei knapp über 7 Jahren, also 2027 (Stand 27.09.2020):
 
 <div about="img/climate_clock_newyork_climateclock.world.jpg" class="copyright">
@@ -161,7 +163,9 @@ Als öffentliche Erinnerung für die nötige Kurskorrektur wurde in New York ein
 Foto: <a href="https://climateclock.world/">climateclock.world-Projekt</a>, nicht unter freier Lizenz
 </div>
 
-Klingt alles düster? Ist es. Aber die Menschheit hat wahnsinnig krasse Dinge geschafft, Atomkriege verhindert, das Ozonloch bekämpft, die Sklaverei verboten, Menschenrechte und Gleichberechtigung etabliert, ist in den Weltall geflogen, hat technologisch und sozial wahnsinnige Fortschritte gemacht, stets dazu gelernt und sich immer wieder neu hinterfragt und neu erfunden mit jeder Generation. Und es gibt ja durchaus viele positive Entwicklungen: Seit Anfang der 1990er-Jahre wurden mehrere zehntausend Windenergieanlagen in Deutschland installiert laut Umweltbundesamt (<a href="https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien/windenergie#strom">Quelle</a>), der Ausbau von Erneuerbaren Energiequellen findet derzeit weltweit statt. Und so verkündete Luisa Neubauer von Fridays For Future Deutschland am 25.9.2020, auch weiterhin nicht locker zu lassen:
+##### Fridays For Future will nicht locker lassen
+
+Klingt alles düster? Ist es. Aber die Menschheit hat wahnsinnig krasse Dinge geschafft, Atomkriege verhindert, das Ozonloch bekämpft, die Sklaverei verboten, Menschenrechte und Gleichberechtigung etabliert, ist in den Weltall geflogen, hat technologisch und sozial wahnsinnige Fortschritte gemacht, stets dazu gelernt und sich immer wieder neu hinterfragt und neu erfunden mit jeder Generation. Und es gibt ja durchaus viele positive Entwicklungen: Seit Anfang der 1990er-Jahre wurden mehrere zehntausend Windenergieanlagen in Deutschland installiert laut Umweltbundesamt (<a href="https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien/windenergie#strom">Quelle</a>), der Ausbau von Erneuerbaren Energiequellen findet derzeit weltweit statt, es gibt ein gesellschaftliches Momentum für den Kampf gegen die Klimakatastrophe. Und so verkündete Luisa Neubauer von Fridays For Future Deutschland beim Klimastreik am 25.9.2020, auch weiterhin nicht locker zu lassen:
 
 <div about="https://www.youtube-nocookie.com/embed/TatxwaWQaFs">
 
