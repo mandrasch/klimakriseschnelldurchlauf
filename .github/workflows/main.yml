@@ -1,33 +1,41 @@
-name: Build /build directory and deploy to ftp
+name: DEPLOY
 
 on:
   push:
-    branches:
-      - master
+    branches: 
+      - main
+  workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node: [14]
+
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Setup node env
+        uses: actions/setup-node@v2
         with:
-          persist-credentials: false
+          node-version: ${{ matrix.node }}
 
-      - name: remove build dir, if exists
-        run: rm -rf build
+      - name: Install dependencies
+        run: npm install
 
-      - run: npm install
+      - name: Build
+        run: gulp
 
-      - run: gulp
-
-      - name: List output files
-        run: ls
-
-      - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@3.1.1
+      - name: rsync deployments
+        uses: burnett01/rsync-deployments@4.1
         with:
-          ftp-server: ${{ secrets.FTP_SERVER }}
-          ftp-username: ${{ secrets.FTP_USERNAME }}
-          ftp-password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: build # This folder is NOT going to upload by default unless you add it to .git-ftp-include
+          switches: -avzr --delete
+          path: dist/
+          remote_path: /home/${{ secrets.REMOTE_USER }}/html/klimakrise-schnelldurchlauf/ # I'm using a subfolder
+          remote_host: ${{ secrets.REMOTE_HOST }}
+          remote_user: ${{ secrets.REMOTE_USER }}
+          remote_key: ${{ secrets.DEPLOY_KEY_PRIVATE }}
