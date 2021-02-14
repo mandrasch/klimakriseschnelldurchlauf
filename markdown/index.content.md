@@ -152,7 +152,7 @@ Grafik aus Artikel <a href="https://www.moment.at/story/wir-sind-unbeirrbar-auf-
 
 ##### Die nächsten 7 Jahre sind entscheidend 
 
-Als öffentliche Erinnerung für die nötige Kurskorrektur wurde in New York eine "Klima-Uhr" installiert, die anzeigt wie viel Jahre noch bleiben, bis die Menschheit keine Emissionen mehr in die Atmosphäre entlassen darf. (Weil das errechnete CO2-Budget für die maximale Erwärmung vom Pariser Klimaziel 1,5 Grad dann aufgebraucht ist). Diese Uhr steht derzeit bei knapp über 7 Jahren, also 2027 (Stand 27.09.2020):
+Als öffentliche Erinnerung für die nötige Kurskorrektur wurde in New York eine "Klima-Uhr" installiert, die anzeigt wie viel Jahre noch bleiben, bis die Menschheit keine Emissionen mehr in die Atmosphäre entlassen darf. (Weil das errechnete CO2/Treibhausgas-Budget für die maximale Erwärmung vom Pariser Klimaziel 1,5 Grad dann aufgebraucht ist). Diese Uhr steht derzeit bei knapp über 7 Jahren, also 2027 (Stand 27.09.2020):
 
 <div about="img/climate_clock_newyork_climateclock.world.jpg" class="copyright">
 
