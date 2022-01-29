@@ -1,8 +1,8 @@
-name: Build and Deploy
+name: Build and Deploy SFTP
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
