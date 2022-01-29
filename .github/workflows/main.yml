@@ -13,7 +13,7 @@ jobs:
       - name: Build for SFTP transfer 🔧
         run: |
           npm ci
-          gulp
+          npx gulp
         env:
           PATH_PREFIX: "" # important: if deploy to subdirectory, 
           # relative links must be different -> see --pathPrefix in 11ty docs
