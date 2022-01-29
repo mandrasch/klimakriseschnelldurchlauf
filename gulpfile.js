@@ -10,7 +10,7 @@ const header = require("gulp-header");
 const merge = require("merge-stream");
 const plumber = require("gulp-plumber");
 const rename = require("gulp-rename");
-const sass = require("gulp-sass");
+const sass = require('gulp-sass')(require('sass'));
 // does not support es6
 //const uglify = require("gulp-uglify");
 // replaced with:
@@ -69,9 +69,9 @@ function modules() {
     .pipe(gulp.dest('./build/vendor/fontawesome-free/webfonts'));
   // jQuery
   var jquery = gulp.src([
-      './node_modules/jquery/dist/*',
-      '!./node_modules/jquery/dist/core.js'
-    ])
+    './node_modules/jquery/dist/*',
+    '!./node_modules/jquery/dist/core.js'
+  ])
     .pipe(gulp.dest('./build/vendor/jquery'));
 
   var scrollProgress = gulp.src('./node_modules/scrollprogress/dist/**/*')
@@ -136,38 +136,38 @@ function js() {
 
 // https://www.npmjs.com/package/gulp-markdown
 // https://stackoverflow.com/a/35851097
-function md2html(){
+function md2html() {
   var convert = gulp.src('./markdown/**/*.md')
-        .pipe(markdown())
-        .pipe(gulp.dest('./build'))
-        .pipe(browsersync.stream());
+    .pipe(markdown())
+    .pipe(gulp.dest('./build'))
+    .pipe(browsersync.stream());
   return convert;
 }
 
-function injectMarkdownHtmlInIndex(){
+function injectMarkdownHtmlInIndex() {
   var replaceContent = gulp.src('./src/index.template.html')
-    .pipe(replace('<!-- MARKDOWN-CONTENT -->', function() {
-        // 2DO: use marked directly?
-        // https://github.com/sindresorhus/gulp-markdown/blob/master/index.js
-        //var renderedHtmlFromMarkdown = markdown(fs.readFileSync('./content/index.md','utf8'));
-        //return renderedHtmlFromMarkdown;
-        var htmlContent = fs.readFileSync('./build/index.content.html', 'utf8');
-        return htmlContent;
-      }))
-      .pipe(rename('index.html'))
-      .pipe(gulp.dest('./build'))
-      .pipe(browsersync.stream());
+    .pipe(replace('<!-- MARKDOWN-CONTENT -->', function () {
+      // 2DO: use marked directly?
+      // https://github.com/sindresorhus/gulp-markdown/blob/master/index.js
+      //var renderedHtmlFromMarkdown = markdown(fs.readFileSync('./content/index.md','utf8'));
+      //return renderedHtmlFromMarkdown;
+      var htmlContent = fs.readFileSync('./build/index.content.html', 'utf8');
+      return htmlContent;
+    }))
+    .pipe(rename('index.html'))
+    .pipe(gulp.dest('./build'))
+    .pipe(browsersync.stream());
 
-      return replaceContent;
+  return replaceContent;
 
-      // 2DO: delete onepager.html afterwards
+  // 2DO: delete onepager.html afterwards
 }
 
 
 
 // Define complex tasks
 const vendor = gulp.series(clean, modules);
-const convertMarkdown = gulp.series(md2html,injectMarkdownHtmlInIndex); // need to run in order
+const convertMarkdown = gulp.series(md2html, injectMarkdownHtmlInIndex); // need to run in order
 const build = gulp.series(vendor, convertMarkdown, gulp.parallel(css, js));
 const watch = gulp.series(build, gulp.parallel(watchFiles, browserSync));
 
@@ -177,7 +177,7 @@ function watchFiles() {
   gulp.watch(["./src/js/**/*", "!./js/**/*.min.js"], js);
   gulp.watch("./markdown/**/*.md", convertMarkdown);
   gulp.watch("./src/index.template.html", convertMarkdown);
-  gulp.watch(["./src/static/**/*","./markdown/img/**/*"], modules);
+  gulp.watch(["./src/static/**/*", "./markdown/img/**/*"], modules);
 }
 
 // Export tasks
