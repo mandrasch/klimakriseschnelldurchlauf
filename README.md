@@ -2,7 +2,7 @@
 
 Live:
 
-https://schnelldurchlauf.eu/klimakrise
+https://klimakrise-schnelldurchlauf.mandrasch.eu/
 
 State: experimental
 
