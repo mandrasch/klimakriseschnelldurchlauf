@@ -207,4 +207,4 @@ Tipps für die mentale Gesundheit in Zeiten der Klimakrise:  🧘 <a href="https
 
 <div style="text-align:center;">~</div>
 
-⚠️ Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked, ggf. können noch inhaltliche Fehler enthalten sein. Feedback ist gerne gesehen! 👉 [Insta-DM](https://www.instagram.com/matze_schnelldurchlauf/), [Twitter-DM](https://www.twitter.com/m_andrasch), E-Mail: anfragen@matthias-andrasch.de. 
+Disclaimer: Dieser Artikel wurde noch nicht von fachkundigen Personen gefeedbacked.
