@@ -26,7 +26,7 @@ Minimal template for OER one pagers based on markdown content. The template uses
 1. Change the directory to the cloned local repository
 1. Run `npm install` (this will install dependencies)
 1. Run `npm start run` for dev live preview (this generates `build/` dir and watches for changes in scss, markdown files, etc.)
-1. To create production build use `gulp`
+1. To create production build use `npx gulp`
 1. For deployment checkout GitHub Actions gh-pages [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) / [ftpdeploy](https://github.com/SamKirkland/FTP-Deploy-Action), see `.github/` directory in this repo
 
 2DO:
